@@ -1,0 +1,919 @@
+[07-Feb-2014 19:07:48 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[07-Feb-2014 19:08:17 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[07-Feb-2014 19:11:53 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[07-Feb-2014 19:12:32 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[07-Feb-2014 19:12:32 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[07-Feb-2014 19:13:02 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[07-Feb-2014 19:14:12 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[07-Feb-2014 19:22:11 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[07-Feb-2014 19:22:26 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[07-Feb-2014 19:22:31 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[07-Feb-2014 19:43:43 Europe/Lisbon] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 36
+[07-Feb-2014 19:44:24 Europe/Lisbon] PHP Parse error:  syntax error, unexpected '}' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 38
+[07-Feb-2014 19:45:37 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[07-Feb-2014 19:50:43 Europe/Lisbon] PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 46
+[07-Feb-2014 19:50:43 Europe/Lisbon] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 47
+[10-Feb-2014 10:31:05 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 10:31:20 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 10:35:42 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 10:36:51 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 10:37:08 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 10:37:20 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 10:37:24 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 10:40:02 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 10:40:16 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 10:42:31 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 10:45:32 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 10:46:05 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 10:48:13 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 10:50:44 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 10:54:03 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 10:57:51 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 11:00:17 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'no decode delegate for this image format `/tmp/magick-XX2pehqP' @ constitute.c/ReadImage/503' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('[0]')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(116): convert(NULL, './shout007/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 11:00:23 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 104
+[10-Feb-2014 11:00:23 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 118
+[10-Feb-2014 11:00:47 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 11:18:51 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 11:21:47 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 11:23:52 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 11:24:16 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'no decode delegate for this image format `/tmp/magick-XXiChKlU' @ constitute.c/ReadImage/503' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('[0]')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(116): convert(NULL, './shout006/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 11:24:20 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 104
+[10-Feb-2014 11:24:20 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 118
+[10-Feb-2014 11:24:30 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 11:37:19 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'no decode delegate for this image format `/tmp/magick-XXGHC5l5' @ constitute.c/ReadImage/503' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('[0]')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(116): convert(NULL, './shout001/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 11:37:56 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 104
+[10-Feb-2014 11:37:56 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 118
+[10-Feb-2014 11:38:08 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 11:39:24 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 11:39:43 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 11:39:58 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 11:40:56 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'no decode delegate for this image format `/tmp/magick-XXa8bi5b' @ constitute.c/ReadImage/503' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('[0]')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(116): convert(NULL, './shout003/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 11:41:26 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 104
+[10-Feb-2014 11:41:26 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 118
+[10-Feb-2014 11:42:13 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 11:48:13 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 11:50:42 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 11:51:47 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 11:52:04 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 11:52:55 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 11:53:35 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 11:53:57 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 11:54:29 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 11:55:17 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 11:55:24 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 11:56:44 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 11:57:55 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 12:03:04 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'no decode delegate for this image format `/tmp/magick-XX5hO6Ct' @ constitute.c/ReadImage/503' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('[0]')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(116): convert(NULL, './shout006/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 12:03:10 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 104
+[10-Feb-2014 12:03:10 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 118
+[10-Feb-2014 12:03:42 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'no decode delegate for this image format `/tmp/magick-XXQ5fhIe' @ constitute.c/ReadImage/503' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('[0]')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(116): convert(NULL, './shout006/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 12:03:45 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 104
+[10-Feb-2014 12:03:45 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 118
+[10-Feb-2014 12:10:19 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'no decode delegate for this image format `/tmp/magick-XXkbHY8u' @ constitute.c/ReadImage/503' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('[0]')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(116): convert(NULL, './shout004/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 12:10:23 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 104
+[10-Feb-2014 12:10:23 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 118
+[10-Feb-2014 12:10:33 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'no decode delegate for this image format `/tmp/magick-XXEVyNc6' @ constitute.c/ReadImage/503' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('[0]')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(116): convert(NULL, './shout004/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 12:10:37 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 104
+[10-Feb-2014 12:10:37 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 118
+[10-Feb-2014 12:11:09 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 12:14:07 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 12:14:30 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 12:17:27 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 12:21:09 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 12:22:05 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 12:23:14 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 12:23:37 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 12:24:11 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 12:28:23 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 12:28:53 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'no decode delegate for this image format `/tmp/magick-XXdLGKef' @ constitute.c/ReadImage/503' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('[0]')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(116): convert(NULL, './shout004/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 12:28:57 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 104
+[10-Feb-2014 12:28:57 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 118
+[10-Feb-2014 12:33:50 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 12:33:50 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 12:33:51 Europe/Lisbon] PHP Warning:  include_once(CreatePlist.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 10
+[10-Feb-2014 12:33:51 Europe/Lisbon] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'CreatePlist.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 10
+[10-Feb-2014 12:33:51 Europe/Lisbon] PHP Fatal error:  Class 'CreatePlist' not found in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 30
+[10-Feb-2014 12:35:18 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 12:35:18 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 12:35:18 Europe/Lisbon] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 50
+[10-Feb-2014 12:36:55 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 12:36:55 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 12:36:55 Europe/Lisbon] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 52
+[10-Feb-2014 12:37:46 Europe/Lisbon] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 52
+[10-Feb-2014 12:38:52 Europe/Lisbon] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 27
+[10-Feb-2014 12:39:29 Europe/Lisbon] PHP Fatal error:  Call to undefined function create() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 52
+[10-Feb-2014 12:41:07 Europe/Lisbon] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 52
+[10-Feb-2014 12:41:59 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 12:42:00 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 12:42:00 Europe/Lisbon] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 52
+[10-Feb-2014 12:42:32 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 12:42:32 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 12:43:04 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 12:43:04 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 12:44:43 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 12:44:43 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 12:48:55 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 12:48:55 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 12:49:06 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 12:49:06 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 12:51:58 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 12:51:58 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 12:55:44 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 12:55:44 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 12:57:26 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 12:57:26 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 12:58:58 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 12:58:58 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 13:17:25 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 13:17:25 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 13:17:26 Europe/Lisbon] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 34
+[10-Feb-2014 13:18:05 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 13:18:05 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 13:18:05 Europe/Lisbon] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, array given in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 34
+[10-Feb-2014 13:19:28 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 13:19:28 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 13:19:28 Europe/Lisbon] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, array given in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 34
+[10-Feb-2014 13:23:23 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 13:23:23 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 13:23:24 Europe/Lisbon] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, array given in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 33
+[10-Feb-2014 13:25:07 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 13:25:07 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 13:26:47 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 13:26:47 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 13:26:48 Europe/Lisbon] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, array given in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 33
+[10-Feb-2014 13:28:51 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 13:29:25 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 13:33:00 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 13:34:17 Europe/Lisbon] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, array given in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 34
+[10-Feb-2014 13:34:46 Europe/Lisbon] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 30
+[10-Feb-2014 13:35:09 Europe/Lisbon] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, array given in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 34
+[10-Feb-2014 13:35:53 Europe/Lisbon] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, array given in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 34
+[10-Feb-2014 13:37:11 Europe/Lisbon] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, array given in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 34
+[10-Feb-2014 13:39:07 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 13:39:07 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 13:39:08 Europe/Lisbon] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, array given in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 34
+[10-Feb-2014 13:39:32 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 13:39:32 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 13:39:33 Europe/Lisbon] PHP Parse error:  syntax error, unexpected T_VAR in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 60
+[10-Feb-2014 13:40:31 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 13:40:31 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 13:40:31 Europe/Lisbon] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, array given in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 34
+[10-Feb-2014 13:42:55 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 13:42:55 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 13:42:55 Europe/Lisbon] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, array given in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 34
+[10-Feb-2014 13:44:22 Europe/Lisbon] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, array given in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 34
+[10-Feb-2014 13:46:56 Europe/Lisbon] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, array given in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 34
+[10-Feb-2014 13:49:26 Europe/Lisbon] PHP Parse error:  syntax error, unexpected ')' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 28
+[10-Feb-2014 13:52:09 Europe/Lisbon] PHP Parse error:  syntax error, unexpected ')' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 28
+[10-Feb-2014 13:52:28 Europe/Lisbon] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, array given in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 34
+[10-Feb-2014 13:53:55 Europe/Lisbon] PHP Warning:  mysql_query() expects parameter 1 to be string, array given in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 34
+[10-Feb-2014 13:56:12 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 13:56:12 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 14:06:16 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 14:06:16 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 14:06:48 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 14:06:48 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 14:07:23 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 14:07:23 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 14:08:31 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 14:08:32 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 14:10:08 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 14:10:08 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 14:24:21 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 14:24:21 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 14:25:09 Europe/Lisbon] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 46
+[10-Feb-2014 14:25:22 Europe/Lisbon] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 51
+[10-Feb-2014 14:32:15 Europe/Lisbon] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 46
+[10-Feb-2014 14:40:34 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 14:41:02 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 14:41:18 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 14:41:24 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 14:57:43 Europe/Lisbon] PHP Fatal error:  Class 'createPlist' not found in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 30
+[10-Feb-2014 15:11:04 Europe/Lisbon] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 60
+[10-Feb-2014 15:11:33 Europe/Lisbon] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 60
+[10-Feb-2014 15:16:14 Europe/Lisbon] PHP Parse error:  syntax error, unexpected T_STRING in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 60
+[10-Feb-2014 15:16:57 Europe/Lisbon] PHP Parse error:  syntax error, unexpected T_STRING in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 60
+[10-Feb-2014 15:18:54 Europe/Lisbon] PHP Parse error:  syntax error, unexpected T_STRING in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 61
+[10-Feb-2014 15:19:18 Europe/Lisbon] PHP Parse error:  syntax error, unexpected T_STRING in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/createPlist.php on line 61
+[10-Feb-2014 15:32:40 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 15:32:40 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 15:39:39 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 15:39:39 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 15:43:46 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 15:43:46 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 15:44:05 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 15:44:05 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 15:47:12 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 15:47:12 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 15:50:11 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 15:50:11 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 15:53:34 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 15:53:34 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 15:54:26 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 15:54:26 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 15:55:45 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 15:55:45 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 15:56:04 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 15:56:05 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 15:56:29 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'no decode delegate for this image format `/tmp/magick-XX8FrR5m' @ constitute.c/ReadImage/503' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('[0]')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(116): convert(NULL, './shout004/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 15:56:34 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 104
+[10-Feb-2014 15:56:34 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 118
+[10-Feb-2014 15:56:41 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 15:56:41 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 15:57:01 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 15:57:01 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 15:57:45 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 15:57:45 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 15:58:11 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 15:58:11 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 15:58:22 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'no decode delegate for this image format `/tmp/magick-XXHiZfnC' @ constitute.c/ReadImage/503' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('[0]')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(116): convert(NULL, './shout010/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 15:59:59 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 104
+[10-Feb-2014 15:59:59 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 118
+[10-Feb-2014 16:01:01 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 16:01:01 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 16:01:41 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 16:01:42 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 16:02:19 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 16:02:19 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 16:03:29 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 16:03:29 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 16:04:08 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 16:04:09 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 16:17:17 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'no decode delegate for this image format `/tmp/magick-XXBV2Cnr' @ constitute.c/ReadImage/503' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('[0]')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(116): convert(NULL, './shout011/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 16:17:38 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'no decode delegate for this image format `/tmp/magick-XXQTu6W6' @ constitute.c/ReadImage/503' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('[0]')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(116): convert(NULL, './shout011/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 16:18:04 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 104
+[10-Feb-2014 16:18:04 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 118
+[10-Feb-2014 16:21:00 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'no decode delegate for this image format `/tmp/magick-XXyD5dnw' @ constitute.c/ReadImage/503' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('[0]')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(116): convert(NULL, './shout011/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 16:21:00 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 104
+[10-Feb-2014 16:21:00 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 118
+[10-Feb-2014 16:21:04 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 16:21:04 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 16:23:18 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 16:23:18 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 16:26:23 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'no decode delegate for this image format `/tmp/magick-XXiAlU1P' @ constitute.c/ReadImage/503' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('[0]')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(116): convert(NULL, './shout009/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 16:26:23 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 104
+[10-Feb-2014 16:26:23 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 118
+[10-Feb-2014 16:27:05 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 16:27:06 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 16:33:52 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'no decode delegate for this image format `/tmp/magick-XX4TovNE' @ constitute.c/ReadImage/503' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('[0]')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(116): convert(NULL, './shout009/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 16:33:53 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 104
+[10-Feb-2014 16:33:53 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 118
+[10-Feb-2014 16:40:40 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'no decode delegate for this image format `/tmp/magick-XXSDIP9y' @ constitute.c/ReadImage/503' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('[0]')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(115): convert(NULL, './shout/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 16:40:40 Europe/Lisbon] PHP Warning:  move_uploaded_file(./shout/c2hvdXQ.pdf) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 74
+[10-Feb-2014 16:40:40 Europe/Lisbon] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpvWQK09' to './shout/c2hvdXQ.pdf' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 74
+[10-Feb-2014 16:40:40 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `./shout/c2hvdXQ.pdf': No such file or directory @ blob.c/OpenBlob/2480' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('./shout/c2hvdXQ...')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(115): convert('./shout/c2hvdXQ...', './shout/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 16:41:56 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'no decode delegate for this image format `/tmp/magick-XXdFAZBT' @ constitute.c/ReadImage/503' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('[0]')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(115): convert(NULL, './shout/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 16:41:56 Europe/Lisbon] PHP Warning:  move_uploaded_file(./shout/c2hvdXQ.pdf) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 74
+[10-Feb-2014 16:41:56 Europe/Lisbon] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpgVlZ8R' to './shout/c2hvdXQ.pdf' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 74
+[10-Feb-2014 16:41:56 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `./shout/c2hvdXQ.pdf': No such file or directory @ blob.c/OpenBlob/2480' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('./shout/c2hvdXQ...')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(115): convert('./shout/c2hvdXQ...', './shout/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 16:43:45 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'no decode delegate for this image format `/tmp/magick-XXGFUKV1' @ constitute.c/ReadImage/503' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('[0]')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(115): convert(NULL, './shout/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 16:43:46 Europe/Lisbon] PHP Warning:  move_uploaded_file(./shout/c2hvdXQ.pdf) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 74
+[10-Feb-2014 16:43:46 Europe/Lisbon] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpfaJt0X' to './shout/c2hvdXQ.pdf' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 74
+[10-Feb-2014 16:43:46 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `./shout/c2hvdXQ.pdf': No such file or directory @ blob.c/OpenBlob/2480' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('./shout/c2hvdXQ...')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(115): convert('./shout/c2hvdXQ...', './shout/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 16:45:03 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'no decode delegate for this image format `/tmp/magick-XXxBQ4yg' @ constitute.c/ReadImage/503' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('[0]')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(115): convert(NULL, './shout/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 16:45:04 Europe/Lisbon] PHP Warning:  move_uploaded_file(./shout/c2hvdXQ.pdf) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 74
+[10-Feb-2014 16:45:04 Europe/Lisbon] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpoXMvkR' to './shout/c2hvdXQ.pdf' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 74
+[10-Feb-2014 16:45:04 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `./shout/c2hvdXQ.pdf': No such file or directory @ blob.c/OpenBlob/2480' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('./shout/c2hvdXQ...')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(115): convert('./shout/c2hvdXQ...', './shout/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 16:46:15 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'no decode delegate for this image format `/tmp/magick-XXtXJ8sM' @ constitute.c/ReadImage/503' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('[0]')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(115): convert(NULL, './shout/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 16:46:15 Europe/Lisbon] PHP Warning:  move_uploaded_file(./shout/c2hvdXQ.pdf) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 74
+[10-Feb-2014 16:46:15 Europe/Lisbon] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpOcRtBl' to './shout/c2hvdXQ.pdf' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 74
+[10-Feb-2014 16:46:15 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'unable to open image `./shout/c2hvdXQ.pdf': No such file or directory @ blob.c/OpenBlob/2480' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('./shout/c2hvdXQ...')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(115): convert('./shout/c2hvdXQ...', './shout/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 16:53:35 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'no decode delegate for this image format `/tmp/magick-XXA28Cxt' @ constitute.c/ReadImage/503' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('[0]')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(115): convert(NULL, './shout015/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 16:53:37 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 104
+[10-Feb-2014 16:53:37 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 117
+[10-Feb-2014 16:55:00 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 16:55:00 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 16:55:15 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'no decode delegate for this image format `/tmp/magick-XX1HgnHc' @ constitute.c/ReadImage/503' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('[0]')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(115): convert(NULL, './shout014/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 16:55:16 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 104
+[10-Feb-2014 16:55:16 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 117
+[10-Feb-2014 16:55:37 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 16:55:37 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 17:04:22 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 17:04:22 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 17:04:23 Europe/Lisbon] PHP Parse error:  syntax error, unexpected ';' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/AuxFunctions.php on line 48
+[10-Feb-2014 17:04:43 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 17:04:43 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 17:04:46 Europe/Lisbon] PHP Parse error:  syntax error, unexpected ';' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/AuxFunctions.php on line 48
+[10-Feb-2014 17:09:36 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'no decode delegate for this image format `/tmp/magick-XXAHrmh3' @ constitute.c/ReadImage/503' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('[0]')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(115): convert(NULL, './shout002/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 17:09:37 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 104
+[10-Feb-2014 17:09:37 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 117
+[10-Feb-2014 17:10:07 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 17:10:07 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 17:10:16 Europe/Lisbon] PHP Parse error:  syntax error, unexpected ';' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/AuxFunctions.php on line 48
+[10-Feb-2014 17:10:44 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 17:10:44 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 17:10:54 Europe/Lisbon] PHP Parse error:  syntax error, unexpected ';' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/AuxFunctions.php on line 48
+[10-Feb-2014 17:11:58 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 17:11:58 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 17:12:08 Europe/Lisbon] PHP Parse error:  syntax error, unexpected ';' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/AuxFunctions.php on line 48
+[10-Feb-2014 17:13:00 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 17:13:00 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 17:14:29 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 17:14:29 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 17:15:32 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 17:15:32 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 17:16:41 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 17:16:41 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 17:17:29 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'no decode delegate for this image format `/tmp/magick-XXs4XO53' @ constitute.c/ReadImage/503' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('[0]')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(115): convert(NULL, './shout003/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 17:17:32 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 104
+[10-Feb-2014 17:17:32 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 117
+[10-Feb-2014 17:17:38 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'no decode delegate for this image format `/tmp/magick-XXWuFUeo' @ constitute.c/ReadImage/503' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('[0]')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(115): convert(NULL, './shout003/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 17:17:39 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 104
+[10-Feb-2014 17:17:39 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 117
+[10-Feb-2014 17:17:53 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 17:17:54 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 17:21:09 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 17:21:39 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 17:21:39 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 17:25:24 Europe/Lisbon] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 11
+[10-Feb-2014 17:25:43 Europe/Lisbon] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 11
+[10-Feb-2014 17:26:14 Europe/Lisbon] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 11
+[10-Feb-2014 17:27:58 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'no decode delegate for this image format `/tmp/magick-XXEu1Umi' @ constitute.c/ReadImage/503' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('[0]')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(115): convert(NULL, './shout004/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 17:27:58 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 104
+[10-Feb-2014 17:27:58 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:103) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 117
+[10-Feb-2014 17:28:12 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 17:28:12 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 17:31:59 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 17:31:59 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 17:33:06 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 17:33:06 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 17:34:37 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'no decode delegate for this image format `/tmp/magick-XXMVlDHP' @ constitute.c/ReadImage/503' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('[0]')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(112): convert(NULL, './shout005/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 17:34:46 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 17:34:46 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 17:37:44 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 17:38:11 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 17:38:11 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[10-Feb-2014 17:38:58 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'no decode delegate for this image format `/tmp/magick-XX3JWjPp' @ constitute.c/ReadImage/503' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('[0]')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(112): convert(NULL, './shout004/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 17:39:56 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'no decode delegate for this image format `/tmp/magick-XXBPwucj' @ constitute.c/ReadImage/503' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('[0]')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(112): convert(NULL, './shout004/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 17:40:26 Europe/Lisbon] PHP Warning:  rmdir(shout004/) [<a href='function.rmdir'>function.rmdir</a>]: Directory not empty in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/Issues.php on line 117
+[10-Feb-2014 17:40:30 Europe/Lisbon] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/Issues.php on line 69
+[10-Feb-2014 17:40:40 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'no decode delegate for this image format `/tmp/magick-XXy8osoZ' @ constitute.c/ReadImage/503' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('[0]')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(112): convert(NULL, './shout004/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 17:41:00 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'no decode delegate for this image format `/tmp/magick-XXjyeocm' @ constitute.c/ReadImage/503' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('[0]')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(112): convert(NULL, './shout004/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 17:41:40 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'no decode delegate for this image format `/tmp/magick-XXmtc3JG' @ constitute.c/ReadImage/503' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:94
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(94): Imagick->__construct('[0]')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(112): convert(NULL, './shout004/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 94
+[10-Feb-2014 17:47:14 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'Can not process empty Imagick object' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:96
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(96): Imagick->setimageformat('png')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(112): convert(NULL, './shout004/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 96
+[10-Feb-2014 17:50:52 Europe/Lisbon] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'Can not process empty Imagick object' in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:98
+Stack trace:
+#0 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(98): Imagick->setimageformat('png')
+#1 /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php(114): convert('', './shout004/')
+#2 {main}
+  thrown in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 98
+[10-Feb-2014 18:02:45 Europe/Lisbon] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 107
+[10-Feb-2014 18:03:54 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:107) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 111
+[10-Feb-2014 18:04:26 Europe/Lisbon] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php:107) in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/getfile.php on line 111
+[11-Feb-2014 10:50:21 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 10:50:21 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 11:30:06 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 11:30:06 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 11:30:11 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 11:30:11 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 11:31:09 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 11:31:09 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 11:31:18 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 11:31:18 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 11:33:02 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 11:33:02 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 11:33:20 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 11:33:20 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 11:33:35 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 11:33:35 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 11:33:46 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 11:33:46 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 11:33:56 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 11:33:56 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 11:51:36 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 11:51:36 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 11:52:01 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 11:52:01 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 11:58:43 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 11:58:43 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/vozdamadeira/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:04:53 Europe/Lisbon] PHP Warning:  move_uploaded_file(./shout003/c2hvdXQwMDM.pdf) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/getfile.php on line 76
+[11-Feb-2014 13:04:53 Europe/Lisbon] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpZIHFQm' to './shout003/c2hvdXQwMDM.pdf' in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/getfile.php on line 76
+[11-Feb-2014 13:05:33 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:12:47 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:17:46 Europe/Lisbon] PHP Warning:  move_uploaded_file(./shout004/c2hvdXQwMDQ.pdf) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/getfile.php on line 76
+[11-Feb-2014 13:17:46 Europe/Lisbon] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpRyxyJy' to './shout004/c2hvdXQwMDQ.pdf' in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/getfile.php on line 76
+[11-Feb-2014 13:23:06 Europe/Lisbon] PHP Warning:  rmdir(shout004) [<a href='function.rmdir'>function.rmdir</a>]: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/Issues.php on line 211
+[11-Feb-2014 13:23:11 Europe/Lisbon] PHP Warning:  rmdir(shout003) [<a href='function.rmdir'>function.rmdir</a>]: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/Issues.php on line 211
+[11-Feb-2014 13:25:37 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:25:37 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:26:06 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:26:06 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:27:24 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:27:24 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:27:36 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:27:36 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:34:06 Europe/Lisbon] PHP Warning:  move_uploaded_file(./shout003/c2hvdXQwMDM.pdf) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/getfile.php on line 76
+[11-Feb-2014 13:34:06 Europe/Lisbon] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpGEGfJl' to './shout003/c2hvdXQwMDM.pdf' in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/getfile.php on line 76
+[11-Feb-2014 13:35:28 Europe/Lisbon] PHP Warning:  rmdir(shout003) [<a href='function.rmdir'>function.rmdir</a>]: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/Issues.php on line 211
+[11-Feb-2014 13:36:25 Europe/Lisbon] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/Issues.php on line 69
+[11-Feb-2014 13:37:25 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:37:25 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:42:43 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:42:43 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:42:45 Europe/Lisbon] PHP Warning:  file_put_contents(./shout005/c2hvdXQwMDU.png) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/AuxFunctions.php on line 64
+[11-Feb-2014 13:43:41 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:43:41 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:44:08 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:44:08 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:45:12 Europe/Lisbon] PHP Warning:  rmdir(shout005) [<a href='function.rmdir'>function.rmdir</a>]: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/Issues.php on line 211
+[11-Feb-2014 13:45:16 Europe/Lisbon] PHP Warning:  rmdir(shout005) [<a href='function.rmdir'>function.rmdir</a>]: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/Issues.php on line 211
+[11-Feb-2014 13:45:20 Europe/Lisbon] PHP Warning:  rmdir(shout005) [<a href='function.rmdir'>function.rmdir</a>]: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/Issues.php on line 211
+[11-Feb-2014 13:45:40 Europe/Lisbon] PHP Warning:  rmdir(shout004) [<a href='function.rmdir'>function.rmdir</a>]: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/Issues.php on line 211
+[11-Feb-2014 13:46:26 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:46:26 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:48:04 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:48:04 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:49:25 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:49:25 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:49:32 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:49:32 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:49:56 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:49:56 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:50:18 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:50:18 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:51:57 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:51:57 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:55:38 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:55:38 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:56:10 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:56:10 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:57:50 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:57:50 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:58:47 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:59:18 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 13:59:18 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 14:18:21 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 14:18:21 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 14:19:33 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 14:19:33 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 14:21:25 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 14:21:25 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 14:22:23 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 14:22:23 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 14:22:53 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 14:22:53 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 14:26:32 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 14:26:32 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 14:26:34 Europe/Lisbon] PHP Warning:  file_put_contents(./shout004/c2hvdXQ.png) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/AuxFunctions.php on line 64
+[11-Feb-2014 14:26:50 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 14:26:50 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 14:26:52 Europe/Lisbon] PHP Warning:  file_put_contents(./shout004/c2hvdXQwMDQ.png) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/AuxFunctions.php on line 64
+[11-Feb-2014 14:27:00 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 14:27:00 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 14:27:02 Europe/Lisbon] PHP Warning:  file_put_contents(./shout004/c2hvdXQwMDQ.png) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/AuxFunctions.php on line 64
+[11-Feb-2014 14:27:23 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 14:27:35 Europe/Lisbon] PHP Warning:  rmdir(shout004) [<a href='function.rmdir'>function.rmdir</a>]: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/Issues.php on line 211
+[11-Feb-2014 14:27:48 Europe/Lisbon] PHP Warning:  rmdir(shout004) [<a href='function.rmdir'>function.rmdir</a>]: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/Issues.php on line 211
+[11-Feb-2014 14:29:25 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 14:29:25 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 14:30:36 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 14:30:36 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 14:30:46 Europe/Lisbon] PHP Warning:  file_put_contents(./shout004/c2hvdXQ.png) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/AuxFunctions.php on line 64
+[11-Feb-2014 14:31:54 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 14:31:54 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 14:32:02 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 14:32:02 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 14:32:02 Europe/Lisbon] PHP Warning:  file_put_contents(./shout004/c2hvdXQwMDQ.png) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/AuxFunctions.php on line 64
+[11-Feb-2014 14:32:11 Europe/Lisbon] PHP Warning:  file_put_contents(./shout004/c2hvdXQwMDQ.png) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/AuxFunctions.php on line 64
+[11-Feb-2014 14:32:32 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 14:32:32 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 14:32:48 Europe/Lisbon] PHP Warning:  file_put_contents(./shout004/c2hvdXQwMDQ.png) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/AuxFunctions.php on line 64
+[11-Feb-2014 14:32:52 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 14:32:52 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 14:33:01 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 14:33:01 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 14:33:04 Europe/Lisbon] PHP Warning:  file_put_contents(./shout004/c2hvdXQwMDQ.png) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/AuxFunctions.php on line 64
+[11-Feb-2014 14:33:46 Europe/Lisbon] PHP Warning:  rmdir(shout004) [<a href='function.rmdir'>function.rmdir</a>]: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/Issues.php on line 211
+[11-Feb-2014 14:34:22 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 14:34:22 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 14:34:44 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 14:34:44 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 14:34:54 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 14:34:54 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:10:49 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:10:49 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:10:52 Europe/Lisbon] PHP Warning:  file_put_contents(./shout003/c2hvdXQwMDM.png) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/AuxFunctions.php on line 64
+[11-Feb-2014 15:12:30 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:12:30 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:13:31 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:13:31 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:13:33 Europe/Lisbon] PHP Warning:  file_put_contents(./shout003/c2hvdXQwMDM.png) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/AuxFunctions.php on line 64
+[11-Feb-2014 15:14:31 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:14:31 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:14:34 Europe/Lisbon] PHP Warning:  file_put_contents(./shout003/c2hvdXQwMDM.png) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/AuxFunctions.php on line 64
+[11-Feb-2014 15:17:48 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:17:48 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:18:21 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:18:21 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:18:34 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:18:34 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:18:37 Europe/Lisbon] PHP Warning:  file_put_contents(./shout003/c2hvdXQwMDM.png) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/AuxFunctions.php on line 64
+[11-Feb-2014 15:20:47 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:20:47 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:20:49 Europe/Lisbon] PHP Warning:  file_put_contents(./shout003/c2hvdXQwMDM.png) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/AuxFunctions.php on line 64
+[11-Feb-2014 15:21:03 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:21:03 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:21:05 Europe/Lisbon] PHP Warning:  file_put_contents(./shout003/c2hvdXQwMDM.png) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/AuxFunctions.php on line 64
+[11-Feb-2014 15:21:53 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:21:53 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:21:55 Europe/Lisbon] PHP Warning:  file_put_contents(./shout003/c2hvdXQwMDM.png) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/AuxFunctions.php on line 64
+[11-Feb-2014 15:22:05 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:22:05 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:22:07 Europe/Lisbon] PHP Warning:  file_put_contents(./shout003/c2hvdXQwMDM.png) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/AuxFunctions.php on line 64
+[11-Feb-2014 15:23:09 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:23:09 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:24:03 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:24:03 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:25:39 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:25:39 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:26:18 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:26:18 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:27:30 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:27:30 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:28:13 Europe/Lisbon] PHP Warning:  rmdir(shout003) [<a href='function.rmdir'>function.rmdir</a>]: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/Issues.php on line 211
+[11-Feb-2014 15:29:49 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:29:49 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:30:34 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:30:34 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:30:45 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:30:45 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:31:00 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:31:00 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:33:15 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:33:16 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:33:46 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:33:46 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:34:29 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:34:29 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:34:41 Europe/Lisbon] PHP Warning:  rmdir(shout003) [<a href='function.rmdir'>function.rmdir</a>]: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/Issues.php on line 211
+[11-Feb-2014 15:35:21 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:35:21 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:35:53 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:35:53 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:36:04 Europe/Lisbon] PHP Warning:  rmdir(../../../shout003/) [<a href='function.rmdir'>function.rmdir</a>]: Directory not empty in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/Issues.php on line 117
+[11-Feb-2014 15:37:13 Europe/Lisbon] PHP Warning:  rmdir(../../shout003/) [<a href='function.rmdir'>function.rmdir</a>]: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/Issues.php on line 117
+[11-Feb-2014 15:37:17 Europe/Lisbon] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/Issues.php on line 69
+[11-Feb-2014 15:37:37 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:37:37 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:37:43 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:37:43 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:37:54 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:37:54 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:38:03 Europe/Lisbon] PHP Warning:  rmdir(shout003) [<a href='function.rmdir'>function.rmdir</a>]: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/Issues.php on line 211
+[11-Feb-2014 15:39:04 Europe/Lisbon] PHP Warning:  rmdir(shout003) [<a href='function.rmdir'>function.rmdir</a>]: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/Issues.php on line 211
+[11-Feb-2014 15:39:27 Europe/Lisbon] PHP Warning:  rmdir(../../shout003/) [<a href='function.rmdir'>function.rmdir</a>]: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/Issues.php on line 117
+[11-Feb-2014 15:39:49 Europe/Lisbon] PHP Warning:  rmdir(../../shout003/) [<a href='function.rmdir'>function.rmdir</a>]: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/Issues.php on line 117
+[11-Feb-2014 15:40:41 Europe/Lisbon] PHP Warning:  rmdir(shout003) [<a href='function.rmdir'>function.rmdir</a>]: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/Issues.php on line 211
+[11-Feb-2014 15:41:58 Europe/Lisbon] PHP Warning:  rmdir(shout003) [<a href='function.rmdir'>function.rmdir</a>]: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/Issues.php on line 211
+[11-Feb-2014 15:43:00 Europe/Lisbon] PHP Warning:  rmdir(shout003) [<a href='function.rmdir'>function.rmdir</a>]: No such file or directory in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/Issues.php on line 211
+[11-Feb-2014 15:44:36 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:44:36 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:44:54 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:44:54 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:45:06 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:45:06 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:45:10 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:45:10 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:45:20 Europe/Lisbon] PHP Warning:  rmdir(../../../shout003) [<a href='function.rmdir'>function.rmdir</a>]: Directory not empty in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/Issues.php on line 211
+[11-Feb-2014 15:45:33 Europe/Lisbon] PHP Warning:  rmdir(../../../shout003) [<a href='function.rmdir'>function.rmdir</a>]: Directory not empty in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/Issues.php on line 211
+[11-Feb-2014 15:47:27 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:47:27 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:48:09 Europe/Lisbon] PHP Warning:  rmdir(../../../shout004) [<a href='function.rmdir'>function.rmdir</a>]: Directory not empty in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/Issues.php on line 211
+[11-Feb-2014 15:48:54 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:48:54 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:49:04 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:49:21 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:49:21 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:49:25 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:49:25 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:49:28 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:49:28 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:49:42 Europe/Lisbon] PHP Warning:  rmdir(../../../shout003) [<a href='function.rmdir'>function.rmdir</a>]: Directory not empty in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/Issues.php on line 211
+[11-Feb-2014 15:51:43 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:51:43 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:52:23 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:52:23 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:52:33 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:52:33 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:53:54 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:53:54 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:54:00 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:54:00 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:55:20 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:56:01 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:56:01 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:56:55 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:56:55 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:57:36 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:57:36 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:58:39 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:58:39 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:58:57 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 15:58:57 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 16:00:08 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 16:00:08 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 16:00:21 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 16:00:21 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 16:02:07 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 16:02:07 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 16:05:02 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 16:05:02 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 16:06:19 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 16:06:19 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 16:06:33 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 16:07:13 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 16:07:13 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 16:08:02 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 16:08:02 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 16:08:32 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 16:09:09 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 16:09:09 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 16:09:20 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 16:09:21 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 16:09:27 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 16:09:27 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 16:10:06 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 16:10:06 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 16:14:53 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 16:58:28 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 16:58:44 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 16:58:44 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 16:58:52 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 16:58:52 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 16:59:22 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 16:59:25 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 16:59:31 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 16:59:32 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 17:00:40 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 17:00:40 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 17:06:30 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 17:06:30 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 17:06:46 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 17:06:49 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 17:06:49 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 17:08:01 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 17:08:01 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 17:08:31 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 17:11:01 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 17:11:01 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 17:11:20 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 17:11:24 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 17:12:08 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 17:12:08 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 17:12:33 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 17:12:37 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 17:12:41 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 17:12:41 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 17:12:56 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 17:14:57 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 17:15:01 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 17:15:10 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 17:16:26 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 17:16:26 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 17:16:35 Europe/Lisbon] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/AuxFunctions.php on line 10
+[11-Feb-2014 17:16:51 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 17:16:51 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 17:16:52 Europe/Lisbon] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/AuxFunctions.php on line 10
+[11-Feb-2014 17:17:04 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 17:17:04 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 17:17:04 Europe/Lisbon] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/AuxFunctions.php on line 10
+[11-Feb-2014 17:18:02 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 17:18:02 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 17:18:45 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 17:20:17 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 17:20:17 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 17:20:29 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[11-Feb-2014 17:20:29 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[13-Feb-2014 15:58:24 Europe/Lisbon] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/Issues.php on line 69
+[13-Feb-2014 15:58:35 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[13-Feb-2014 15:58:35 Europe/Lisbon] PHP Warning:  rmdir(../../../shout005/) [<a href='function.rmdir'>function.rmdir</a>]: Directory not empty in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/Issues.php on line 117
+[13-Feb-2014 15:59:11 Europe/Lisbon] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/Issues.php on line 69
+[13-Feb-2014 15:59:28 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[13-Feb-2014 16:00:44 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[13-Feb-2014 16:01:29 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[13-Feb-2014 16:01:29 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[13-Feb-2014 16:02:17 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[13-Feb-2014 16:02:17 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[13-Feb-2014 16:04:19 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[13-Feb-2014 16:04:19 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[13-Feb-2014 16:05:11 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[13-Feb-2014 16:05:11 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[13-Feb-2014 16:05:19 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[13-Feb-2014 16:05:19 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[13-Feb-2014 16:05:27 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[13-Feb-2014 16:06:42 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[13-Feb-2014 16:06:42 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[13-Feb-2014 16:07:16 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[13-Feb-2014 16:10:07 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[13-Feb-2014 16:10:15 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[13-Feb-2014 16:10:15 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[13-Feb-2014 16:10:59 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[14-Feb-2014 17:04:34 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[14-Feb-2014 17:04:34 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[14-Feb-2014 17:05:13 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[14-Feb-2014 17:05:43 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[14-Feb-2014 17:06:07 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[14-Feb-2014 17:06:19 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[14-Feb-2014 17:06:19 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[14-Feb-2014 17:06:29 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[14-Feb-2014 17:07:18 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[14-Feb-2014 17:07:55 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[14-Feb-2014 17:08:15 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[14-Feb-2014 17:08:33 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[14-Feb-2014 17:08:33 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.0/index.php on line 28
+[19-Feb-2014 19:59:57 Europe/Lisbon] PHP Warning:  Invalid argument supplied for foreach() in /home/mobinteg/mobi-shout.com/mobishout/mobishout/web/admin/srv1.1/index.php on line 28

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<array>
+		<dict>
+			 <key>FileName</key>
+			 <string>shout001/shout001.pdf</string>
+			 <key>Subtitle</key>
+			 <string><![CDATA[subtitle 1]]></string>
+			 <key>Title</key>
+			 <string><![CDATA[title 1]]></string>
+		</dict>
+	</array>
+</plist>

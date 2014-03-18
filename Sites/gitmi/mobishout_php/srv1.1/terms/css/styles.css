@@ -1,0 +1,113 @@
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+* {
+	margin: 0;
+	padding: 0;
+
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+		-ms-box-sizing: border-box;
+			box-sizing: border-box;
+}
+
+body, html {
+	width: 100%;
+	height: 100%;
+	font: 24px/1.5em "Montserrat", sans-serif;
+	color:#999;
+	background: #46484b;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+}
+
+a {
+	text-decoration:none;
+	color: #cdcdcd;
+}
+
+a:hover {
+	color: #fff;
+}
+
+footer {
+	width:100%;
+	height: 100%;
+}
+
+footer .footer-wrapper {
+	width: 100%;
+	height: 100%;
+	padding: 20px 0;
+}
+
+footer .notes {
+	width: 80%;
+	max-width: 714px;
+	height: auto;
+	display: block;
+	margin: 0 auto;
+	list-style: decimal;
+}
+
+footer .notes h1 {
+	width: 100%;
+	font-size: 120%;
+	color: #fff;
+	font-weight: 400;
+	padding: 40px 0;
+	line-height: 1.3em;
+	text-align: center;
+	/*text-transform: uppercase;*/
+}
+
+footer .notes h1 span {
+	font-size: 50%;
+	opacity: .5;
+}
+
+footer .notes > a img {
+	margin-bottom: 40px;
+}
+
+footer .notes .notes-inner {
+	margin: 10px 0 20px 0;
+	padding-top: 10px;
+	border-top: 1px solid #5b5d63;
+	border-bottom: 1px solid #5b5d63;
+}
+
+footer .notes .notes-inner p {
+	line-height: .7em;
+	font-size: 50%;
+	opacity: 1;
+}
+
+footer .notes .notes-inner p:first-child {
+	color: #fff;
+	margin-bottom: 15px;
+}
+
+footer .notes li, footer .notes p {
+	font-size: 40%;
+	line-height: 1.5em;
+	color: #999;
+	margin-bottom: 10px;
+}
+
+footer .constant {
+	width: 100%;
+	max-width: 495px;
+	margin: 40px auto;
+	text-align: center;
+	font-size: 60%;
+	line-height: 1.5em;
+	padding: 40px 0;
+}
+
+footer .constant a {
+	color:#fff;
+}
+
+footer .constant a:hover {
+	text-decoration: underline;
+}

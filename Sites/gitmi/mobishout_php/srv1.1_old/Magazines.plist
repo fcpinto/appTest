@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FileName</key>
+		<string>vm10/vm10.pdf</string>
+		<key>Subtitle</key>
+		<string>Janeiro de 2014 #10</string>
+		<key>Title</key>
+		<string>Voz da Madeira</string>
+	</dict>
+	<dict>
+		<key>FileName</key>
+		<string>vm09/vm09.pdf</string>
+		<key>Subtitle</key>
+		<string>Dezembro de 2013 #9</string>
+		<key>Title</key>
+		<string>Voz da Madeira</string>
+	</dict>
+	<dict>
+		<key>FileName</key>
+		<string>vm08/vm08.pdf</string>
+		<key>Subtitle</key>
+		<string>Novembro de 2013</string>
+		<key>Title</key>
+		<string>Voz da Madeira #8</string>
+	</dict>
+	<dict>
+		<key>FileName</key>
+		<string>vm07/vm07.pdf</string>
+		<key>Subtitle</key>
+		<string>Outubro de 2013</string>
+		<key>Title</key>
+		<string>Voz da Madeira #7</string>
+	</dict>
+	<dict>
+		<key>FileName</key>
+		<string>vm06/vm06.pdf</string>
+		<key>Subtitle</key>
+		<string>Setembro de 2013</string>
+		<key>Title</key>
+		<string>Voz da Madeira #6</string>
+	</dict>
+	<dict>
+		<key>FileName</key>
+		<string>vm05/vm05.pdf</string>
+		<key>Subtitle</key>
+		<string>Agosto de 2013</string>
+		<key>Title</key>
+		<string>Voz da Madeira #5</string>
+	</dict>
+	<dict>
+		<key>FileName</key>
+		<string>vm04/vm04.pdf</string>
+		<key>Subtitle</key>
+		<string>Julho de 2013</string>
+		<key>Title</key>
+		<string>Voz da Madeira #4</string>
+	</dict>
+	<dict>
+		<key>FileName</key>
+		<string>vm03/vm03.pdf</string>
+		<key>Subtitle</key>
+		<string>Junho de 2013</string>
+		<key>Title</key>
+		<string>Voz da Madeira #3</string>
+	</dict>
+	<dict>
+		<key>FileName</key>
+		<string>vm02/vm02.pdf</string>
+		<key>Subtitle</key>
+		<string>Maio de 2013</string>
+		<key>Title</key>
+		<string>Voz da Madeira #2</string>
+	</dict>
+	<dict>
+		<key>FileName</key>
+		<string>vm01/vm01.pdf</string>
+		<key>Subtitle</key>
+		<string>Abril de 2013</string>
+		<key>Title</key>
+		<string>Voz da Madeira #1</string>
+	</dict>
+	<dict>
+		<key>FileName</key>
+		<string>vm00/vm00.pdf</string>
+		<key>Subtitle</key>
+		<string>Março de 2013</string>
+		<key>Title</key>
+		<string>Voz da Madeira #0</string>
+	</dict>
+</array>
+</plist>
